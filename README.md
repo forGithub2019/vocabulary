@@ -19,5 +19,11 @@ adj.	被裁减的; 多余的; 不需要的;
 parentheses
 英[pəˈrɛnθɪsiːz]
 美[pəˈrɛnθəˌsiz]   
-n.	插入语;
+n.	插入语;   
+compress
+美[ kəm'pres ] 
+英[ kəm'pres ]    
+v. 压平 / 压缩 / 紧压 / 打包   
+n. 敷布 / 压布
+
 
